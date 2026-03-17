@@ -1,0 +1,5 @@
+# Day 1
+
+- Learned Git basics
+- Created repository
+- Pushed first code
